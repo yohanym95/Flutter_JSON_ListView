@@ -1,6 +1,6 @@
 # flutter_JSON_ListView
 
-A new Flutter project.
+In this project, ListView create with Json data and i use HTTP Library to get the JSON response from a REST API to load in ListView.
 
 ## Getting Started
 
